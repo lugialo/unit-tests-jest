@@ -26,4 +26,4 @@ All execution artifacts can be found in `./coverage`, if you want to remove thes
     <li>test: unit test files</li>
 </ul>
 
-## Gabriel Antonin Pascoali
+### Gabriel Antonin Pascoali
