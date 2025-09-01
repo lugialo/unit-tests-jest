@@ -53,8 +53,8 @@ class Utilitarios {
   }
 
   ordenarArray(arr) {
-    return [...arr].sort();
-  }
+    return [...arr].sort((a, b) => a - b);
+}
 
   inverterArray(arr) {
     return [...arr].reverse();
